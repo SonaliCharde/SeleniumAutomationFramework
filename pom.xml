@@ -33,6 +33,7 @@
       <version>7.9.0</version>
       <scope>test</scope>
 
+
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
     <dependency>
@@ -40,6 +41,14 @@
       <artifactId>selenium-java</artifactId>
       <version>4.18.1</version>
     </dependency>
+
+    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-manager -->
+    <dependency>
+      <groupId>org.seleniumhq.selenium</groupId>
+      <artifactId>selenium-manager</artifactId>
+      <version>4.18.1</version>
+    </dependency>
+
 
     <!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-testng -->
     <dependency>
