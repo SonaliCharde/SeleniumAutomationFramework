@@ -31,8 +31,8 @@ public class Selenium26 {
         driver.get("https://the-internet.herokuapp.com/checkboxes");
         driver.manage().window().maximize();
 
-        List<WebElement> checkbox   = driver.findElements(By.id("checkboxes"));
-        WebElement ch1 = checkbox.get(0);
+        List<WebElement> checkbox   = driver.findElements(By.xpath("//input[@type='checkbox']"));
+        WebElement ch1 = checkbox.get(1);
         ch1.click();
         Thread.sleep(5000);
 
