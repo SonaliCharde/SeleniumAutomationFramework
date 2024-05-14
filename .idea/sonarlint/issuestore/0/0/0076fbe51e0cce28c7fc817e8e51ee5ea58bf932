@@ -1,0 +1,7 @@
+
+Å
+java:S3577"‰Rename class "Selenium38" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ù§è^J$fc03ade0-3478-4a50-80d2-aaf85bd7dd24
+`
+java:S2925'"$Remove this use of "Thread.sleep()".(¬Æ„°J$5b0720ba-e3f1-45c9-bc7f-4672b34ea89f
+`
+java:S2925:"$Remove this use of "Thread.sleep()".(¯ú™úJ$ff1bf948-595e-4e1c-9aaf-808e4711ce89
